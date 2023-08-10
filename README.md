@@ -1,3 +1,7 @@
++ [环境部署参考](https://blog.csdn.net/h904798869/article/details/130317240?spm=1001.2014.3001.5502)
+
+---
+
 # Fast-BEV
 
 ~~~
